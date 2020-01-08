@@ -85,7 +85,7 @@ module.exports = {
       options: {
         typeName: "WPGraphQL",
         fieldName: "wpgraphql",
-        url: `http://localhost:8080/graphql`,
+        url: `https://data.markryba.com/graphql`,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
